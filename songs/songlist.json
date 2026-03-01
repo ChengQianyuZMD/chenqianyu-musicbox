@@ -1,0 +1,301 @@
+{
+  "version": "1.0",
+  "lastUpdate": "2026-03-01",
+  "total": 42,
+  "songs": [
+    {
+      "id": 1,
+      "name": "千恋万当",
+      "file": "qian_lian_wan_dang.mp3",
+      "duration": 210,
+      "artist": "陈千语"
+    },
+    {
+      "id": 2,
+      "name": "不再吟当",
+      "file": "bu_zai_yin_dang.mp3",
+      "duration": 195,
+      "artist": "陈千语"
+    },
+    {
+      "id": 3,
+      "name": "停止播放",
+      "file": "stop_playing.mp3",
+      "duration": 5,
+      "artist": "陈千语"
+    },
+    {
+      "id": 4,
+      "name": "当悟空",
+      "file": "dang_wu_kong.mp3",
+      "duration": 225,
+      "artist": "陈千语"
+    },
+    {
+      "id": 5,
+      "name": "日常当",
+      "file": "ri_chang_dang.mp3",
+      "duration": 180,
+      "artist": "陈千语"
+    },
+    {
+      "id": 6,
+      "name": "营当号",
+      "file": "ying_dang_hao.mp3",
+      "duration": 200,
+      "artist": "陈千语"
+    },
+    {
+      "id": 7,
+      "name": "彩虹当",
+      "file": "cai_hong_dang.mp3",
+      "duration": 215,
+      "artist": "陈千语"
+    },
+    {
+      "id": 8,
+      "name": "甩庄歌",
+      "file": "shuai_zhuang_ge.mp3",
+      "duration": 190,
+      "artist": "陈千语"
+    },
+    {
+      "id": 9,
+      "name": "一秒六当",
+      "file": "yi_miao_liu_dang.mp3",
+      "duration": 185,
+      "artist": "陈千语"
+    },
+    {
+      "id": 10,
+      "name": "千语樱",
+      "file": "qian_yu_ying.mp3",
+      "duration": 205,
+      "artist": "陈千语"
+    },
+    {
+      "id": 11,
+      "name": "陈狱长",
+      "file": "chen_yu_zhang.mp3",
+      "duration": 220,
+      "artist": "陈千语"
+    },
+    {
+      "id": 12,
+      "name": "当勒比海盗",
+      "file": "dang_le_bi_hai_dao.mp3",
+      "duration": 235,
+      "artist": "陈千语"
+    },
+    {
+      "id": 13,
+      "name": "帝江漫步",
+      "file": "di_jiang_man_bu.mp3",
+      "duration": 210,
+      "artist": "陈千语"
+    },
+    {
+      "id": 14,
+      "name": "当不住",
+      "file": "dang_bu_zhu.mp3",
+      "duration": 195,
+      "artist": "陈千语"
+    },
+    {
+      "id": 15,
+      "name": "Faded当",
+      "file": "faded_dang.mp3",
+      "duration": 215,
+      "artist": "陈千语"
+    },
+    {
+      "id": 16,
+      "name": "当天气",
+      "file": "dang_tian_qi.mp3",
+      "duration": 185,
+      "artist": "陈千语"
+    },
+    {
+      "id": 17,
+      "name": "打当服",
+      "file": "da_dang_fu.mp3",
+      "duration": 200,
+      "artist": "陈千语"
+    },
+    {
+      "id": 18,
+      "name": "已当哭",
+      "file": "yi_dang_ku.mp3",
+      "duration": 190,
+      "artist": "陈千语"
+    },
+    {
+      "id": 19,
+      "name": "当雪大冒险",
+      "file": "dang_xue_da_mao_xian.mp3",
+      "duration": 225,
+      "artist": "陈千语"
+    },
+    {
+      "id": 20,
+      "name": "Alone",
+      "file": "alone.mp3",
+      "duration": 210,
+      "artist": "陈千语"
+    },
+    {
+      "id": 21,
+      "name": "当战尸",
+      "file": "dang_zhan_shi.mp3",
+      "duration": 205,
+      "artist": "陈千语"
+    },
+    {
+      "id": 22,
+      "name": "来去当",
+      "file": "lai_qu_dang.mp3",
+      "duration": 195,
+      "artist": "陈千语"
+    },
+    {
+      "id": 23,
+      "name": "当平洋",
+      "file": "dang_ping_yang.mp3",
+      "duration": 215,
+      "artist": "陈千语"
+    },
+    {
+      "id": 24,
+      "name": "当当当",
+      "file": "dang_dang_dang.mp3",
+      "duration": 185,
+      "artist": "陈千语"
+    },
+    {
+      "id": 25,
+      "name": "小丑当尸",
+      "file": "xiao_chou_dang_shi.mp3",
+      "duration": 200,
+      "artist": "陈千语"
+    },
+    {
+      "id": 26,
+      "name": "死别",
+      "file": "si_bie.mp3",
+      "duration": 210,
+      "artist": "陈千语"
+    },
+    {
+      "id": 27,
+      "name": "起床号",
+      "file": "qi_chuang_hao.mp3",
+      "duration": 190,
+      "artist": "陈千语"
+    },
+    {
+      "id": 28,
+      "name": "启动小曲",
+      "file": "qi_dong_xiao_qu.mp3",
+      "duration": 185,
+      "artist": "陈千语"
+    },
+    {
+      "id": 29,
+      "name": "蓝莲当",
+      "file": "lan_lian_dang.mp3",
+      "duration": 215,
+      "artist": "陈千语"
+    },
+    {
+      "id": 30,
+      "name": "诀别当",
+      "file": "jue_bie_dang.mp3",
+      "duration": 205,
+      "artist": "陈千语"
+    },
+    {
+      "id": 31,
+      "name": "菊次郎的酷当",
+      "file": "ju_ci_lang_de_ku_dang.mp3",
+      "duration": 220,
+      "artist": "陈千语"
+    },
+    {
+      "id": 32,
+      "name": "睛当",
+      "file": "jing_dang.mp3",
+      "duration": 195,
+      "artist": "陈千语"
+    },
+    {
+      "id": 33,
+      "name": "花当舞",
+      "file": "hua_dang_wu.mp3",
+      "duration": 210,
+      "artist": "陈千语"
+    },
+    {
+      "id": 34,
+      "name": "当角洲行动",
+      "file": "dang_jiao_zhou_xing_dong.mp3",
+      "duration": 225,
+      "artist": "陈千语"
+    },
+    {
+      "id": 35,
+      "name": "Unity",
+      "file": "unity.mp3",
+      "duration": 235,
+      "artist": "陈千语"
+    },
+    {
+      "id": 36,
+      "name": "China当",
+      "file": "china_dang.mp3",
+      "duration": 215,
+      "artist": "陈千语"
+    },
+    {
+      "id": 37,
+      "name": "啥子雷霆",
+      "file": "sha_zi_lei_ting.mp3",
+      "duration": 205,
+      "artist": "陈千语"
+    },
+    {
+      "id": 38,
+      "name": "欢乐斗啥子",
+      "file": "huan_le_dou_sha_zi.mp3",
+      "duration": 195,
+      "artist": "陈千语"
+    },
+    {
+      "id": 39,
+      "name": "THEKING",
+      "file": "theking.mp3",
+      "duration": 210,
+      "artist": "陈千语"
+    },
+    {
+      "id": 40,
+      "name": "STAY",
+      "file": "stay.mp3",
+      "duration": 200,
+      "artist": "陈千语"
+    },
+    {
+      "id": 41,
+      "name": "QUEEN",
+      "file": "queen.mp3",
+      "duration": 215,
+      "artist": "陈千语"
+    },
+    {
+      "id": 42,
+      "name": "LightningMoment",
+      "file": "lightning_moment.mp3",
+      "duration": 220,
+      "artist": "陈千语"
+    }
+  ]
+}
